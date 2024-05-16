@@ -166,6 +166,5 @@
 
 ## 6. DB 설계 ERD
 
-![https://user-images.githubusercontent.com/111295065/207309475-759e6e8d-8265-4c49-8c8f-9f83478c329d.png](https://user-images.githubusercontent.com/111295065/207309475-759e6e8d-8265-4c49-8c8f-9f83478c329d.png)
 ![RentCar (1)](https://github.com/SungChangNam/kurumaster/assets/112399821/f3af720d-f085-44d2-a62c-c0b955e2c166)
 
