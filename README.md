@@ -27,9 +27,9 @@
 
 
 
-![https://calendar.google.com/calendar/u/0/r/month/2024/3/1?pli=1)
 
-프로젝트 Repository : [https://github.com/devjunseok/off_the_outfit_frontend](https://github.com/devjunseok/off_the_outfit_frontend)
+
+프로젝트 Repository : [https://github.com/SungChangNam/kurumaster](https://github.com/SungChangNam/kurumaster)
 
 
 
