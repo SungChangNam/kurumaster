@@ -11,9 +11,7 @@
 
 ### 쿠루마스터 (KuruMaster)
 
-배포 사이트 :
-
-[https://www.offtheoutfit.com/](https://www.offtheoutfit.com/)
+## 배포 사이트 :[https://www.offtheoutfit.com/](https://www.offtheoutfit.com/)
 
 
 
