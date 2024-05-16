@@ -171,8 +171,7 @@
 
 ## 6. 요구사항 분석 설계서
 
-<a href="https://github.com/" target="_blank">GitHub</a>
+<a href="https://docs.google.com/presentation/d/1lTJSTo-P14JcGu3FWIZ9zQvL1bJq6Uij77BIFGUbml4/edit#slide=id.gc6f80d1ff_0_0" target="_blank">요구사항 분석 설계서</a>
 
 
-(https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)(https://docs.google.com/presentation/d/1lTJSTo-P14JcGu3FWIZ9zQvL1bJq6Uij77BIFGUbml4/edit#slide=id.gc6f80d1ff_0_0)
 
