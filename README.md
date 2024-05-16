@@ -15,6 +15,8 @@
 
 [https://www.offtheoutfit.com/](https://www.offtheoutfit.com/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-F0594F/yellowgreen.svg)](https://github.com/)
+
 
 
 프로젝트 일정 : 2024.5.17 ~ 2024.7.29
