@@ -7,19 +7,17 @@
 ![Image of the alt text](https://github.com/user/repo/blob/master/path/to/image.jpg)
 
 
-![title](https://user-images.githubusercontent.com/111295065/207591435-39d46ea9-f8df-4fd2-b8c9-2b1b1bbabe1e.png)
 
-### 오프더아웃핏 (off the outfit)
+
+### 쿠루마스터 (KuruMaster)
 
 배포 사이트 :
 
 [https://www.offtheoutfit.com/](https://www.offtheoutfit.com/)
 
-시연 영상 :
 
-[https://youtu.be/WbKLup-Qcuk/](https://youtu.be/WbKLup-Qcuk/)
 
-프로젝트 일정 : 2022.11.30 ~ 2022.12.29
+프로젝트 일정 : 2024.5.17 ~ 2024.7.29
 
 ![https://user-images.githubusercontent.com/111295065/207312572-c009cd12-3a73-44f4-a5ed-4d89ff7ff246.png](https://user-images.githubusercontent.com/111295065/207312572-c009cd12-3a73-44f4-a5ed-4d89ff7ff246.png)
 
