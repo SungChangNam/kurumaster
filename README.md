@@ -18,7 +18,7 @@
 
 
 
-프로젝트 일정 : 2024.5.17 ~ 2024.7.29
+## 프로젝트 일정 : 2024.5.17 ~ 2024.7.29
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-프로젝트 Repository : [https://github.com/SungChangNam/kurumaster](https://github.com/SungChangNam/kurumaster)
+## 프로젝트 Repository : [https://github.com/SungChangNam/kurumaster](https://github.com/SungChangNam/kurumaster)
 
 
 
