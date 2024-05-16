@@ -168,7 +168,8 @@
 
 ## 6. DB 설계 ERD
 
-![RentCar (3)](https://github.com/SungChangNam/kurumaster/assets/112399821/a669403a-2721-4bff-a78c-5b42dac5cd76)
+![RentCar (7)](https://github.com/SungChangNam/kurumaster/assets/112399821/2d85f0b1-42ad-4908-a495-34101715cfc6)
+
 
 
 ## 6. 요구사항 분석 설계서
