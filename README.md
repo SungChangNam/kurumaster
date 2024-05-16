@@ -163,15 +163,8 @@
 
 ![https://user-images.githubusercontent.com/111295065/207312359-91bb78a9-c108-4897-8cc3-e0cbb1f00cd0.png](https://user-images.githubusercontent.com/111295065/207312359-91bb78a9-c108-4897-8cc3-e0cbb1f00cd0.png)
 
-## 6. Architecture
 
-![https://user-images.githubusercontent.com/111295065/207308569-1f6531bf-c8b1-4ff7-b6cf-442bcbe5cfb9.png](https://user-images.githubusercontent.com/111295065/207308569-1f6531bf-c8b1-4ff7-b6cf-442bcbe5cfb9.png)
-
-## 7. API 명세서
-
-[off_the_outfit (getpostman.com)](https://documenter.getpostman.com/view/24913558/2s8YzWRfo4)
-
-## 8. DB 설계 ERD
+## 6. DB 설계 ERD
 
 ![https://user-images.githubusercontent.com/111295065/207309475-759e6e8d-8265-4c49-8c8f-9f83478c329d.png](https://user-images.githubusercontent.com/111295065/207309475-759e6e8d-8265-4c49-8c8f-9f83478c329d.png)
 ![RentCar (1)](https://github.com/SungChangNam/kurumaster/assets/112399821/f3af720d-f085-44d2-a62c-c0b955e2c166)
