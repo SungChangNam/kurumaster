@@ -22,7 +22,7 @@
 
 프로젝트 일정 : 2024.5.17 ~ 2024.7.29
 
-![https://user-images.githubusercontent.com/111295065/207312572-c009cd12-3a73-44f4-a5ed-4d89ff7ff246.png](https://user-images.githubusercontent.com/111295065/207312572-c009cd12-3a73-44f4-a5ed-4d89ff7ff246.png)
+![https://calendar.google.com/calendar/u/0/r/month/2024/3/1?pli=1)
 
 프론트엔드 Repository : [https://github.com/devjunseok/off_the_outfit_frontend](https://github.com/devjunseok/off_the_outfit_frontend)
 
