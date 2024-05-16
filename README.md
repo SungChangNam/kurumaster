@@ -52,7 +52,6 @@
     - JSP
     - Servlet
     - Spring
-    - Tomcat 
 - 프론트엔드
     - HTML5
     - Javascript
@@ -60,7 +59,10 @@
     - CSS
 - 데이터베이스
     - Oracle 
-      
+- 개발도구
+    - Eclipse
+- 서버
+    - Apache Tomcat
 - 배포
     - cafe24
     
@@ -165,4 +167,9 @@
 ## 6. DB 설계 ERD
 
 ![RentCar (1)](https://github.com/SungChangNam/kurumaster/assets/112399821/f3af720d-f085-44d2-a62c-c0b955e2c166)
+
+
+## 6. 요구사항 분석 설계서
+
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)(https://docs.google.com/presentation/d/1lTJSTo-P14JcGu3FWIZ9zQvL1bJq6Uij77BIFGUbml4/edit#slide=id.gc6f80d1ff_0_0)
 
