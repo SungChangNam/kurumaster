@@ -1,10 +1,10 @@
 # kurumaster
 
-# off_the_outfit_backend
+
 
 ## 프로젝트
 ![Image of the alt text](https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D)
-![Image of the alt text](https://github.com/user/repo/blob/master/path/to/image.jpg)
+
 
 
 
