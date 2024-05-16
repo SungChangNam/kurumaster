@@ -15,7 +15,8 @@
 
 [https://www.offtheoutfit.com/](https://www.offtheoutfit.com/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-F0594F/yellowgreen.svg)](https://github.com/)
+[![Badge name](https://img.shields.io/badge/badge_label-color1/badge_label-color2/text.svg)](https://link_to_badge_target)
+
 
 
 
