@@ -15,12 +15,17 @@
 
 [https://www.offtheoutfit.com/](https://www.offtheoutfit.com/)
 
-[![Badge name](https://img.shields.io/badge/badge_label-color1/badge_label-color2/text.svg)](https://link_to_badge_target)
+
 
 
 
 
 프로젝트 일정 : 2024.5.17 ~ 2024.7.29
+
+[![GitHub]([https://img.shields.io/badge/GitHub-F0594F/yellowgreen.svg)](https://github.com/](https://calendar.google.com/calendar/u/0/r/month/2024/3/1?pli=1))
+
+
+
 
 ![https://calendar.google.com/calendar/u/0/r/month/2024/3/1?pli=1)
 
