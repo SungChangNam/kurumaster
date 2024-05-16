@@ -22,53 +22,57 @@
 
 프로젝트 일정 : 2024.5.17 ~ 2024.7.29
 
-[![GitHub]([https://img.shields.io/badge/GitHub-F0594F/yellowgreen.svg)](https://github.com/](https://calendar.google.com/calendar/u/0/r/month/2024/3/1?pli=1))
+
 
 
 
 
 ![https://calendar.google.com/calendar/u/0/r/month/2024/3/1?pli=1)
 
-프론트엔드 Repository : [https://github.com/devjunseok/off_the_outfit_frontend](https://github.com/devjunseok/off_the_outfit_frontend)
+프로젝트 Repository : [https://github.com/devjunseok/off_the_outfit_frontend](https://github.com/devjunseok/off_the_outfit_frontend)
 
-백엔드  Repository :[https://github.com/devjunseok/off_the_outfit_backend](https://github.com/devjunseok/off_the_outfit_backend)
 
-S.A 링크 : [B1팀 최종 프로젝트](https://www.notion.so/B1-27932c8fdffb4308901a7ecdabade724)
 
 ## 1. 프로젝트 주제
 
-### 무신사 기반 패션 플랫폼
+### 렌터카 예약 및 여행정보 공유 사이트
 
-사용자의 지역에  날씨에 따라서 옷을 추천해주고, 자신의 스타일 정보를 공유하는 패션 플랫폼
+렌터카 예약 시스템  및 커뮤니티
+웹사이트 
+다양한 차종 제공 
+(경차, 컴팩트, SUV 등)
+합리적인 가격 책정 (엔화 약세 반영)
+간편하고 안전한 결제 시스템 구축
+한국어 고객센터 운영
+
+
 
 ## 2. 기술 스택
 
 - 백엔드
-    - Python 3.10
-    - Django 4.1.4
-    - Django Rest Framework 3.14
-    - Django Rest Framework simple-jwt 5.2.2
-    - Docker 20.10.12
-    - Nginx 1.22.0
-    - Gunicorn 20.1.0
+    - Java 1.8
+    - JSP
+    - Servlet
+    - Spring
+    - Tomcat 
 - 프론트엔드
     - HTML5
     - Javascript
     - JQuery
     - CSS
 - 데이터베이스
-    - AWS RDS PostgreSQL
-    - AWS S3
+    - Oracle 
+      
 - 배포
-    - AWS EC2
-    - AWS Route 53
-    - AWS CloudFront
+    - cafe24
+    
 
-## 3. 싸지방 팀 팀원 및 역할
+## 3. 쿠루마스터 팀 팀원 및 역할
 
-### 박준석 - [devjunseok - Overview](https://github.com/devjunseok)
+### 여승현 - [![GitHub](https://img.shields.io/badge/GitHub-F0594F/yellowgreen.svg)](https://github.com/)
 
-팀장 / 프로젝트 기획 / 테스트 코드 작성 / user 기능/ DB 모델링 / EC2, CloudFront, S3를 이용한 프로젝트 배포 총괄
+
+팀장 / 프로젝트 기획 / 프론트엔드 개발/ HTML/ CSS/ JavaScript/이용
 
 ### 노우석 - [WooSeok-Nho - Overview](https://github.com/WooSeok-Nho/)
 
