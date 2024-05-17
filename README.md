@@ -80,11 +80,11 @@
 
 ### 성창남 - [SungChangNam - Overview](https://github.com/SungChangNam)
 
-팀원 / 프로젝트 기획 / 데이터베이스 구축 / 예약정보 관리 / FrontEnd 제작,API연결
+팀원 / 프로젝트 기획 / 데이터베이스 구축 / DB 모델링 / FrontEnd 제작,API연결
 
 ### 김진호 - [![GitHub](https://img.shields.io/badge/GitHub-F0594F/yellowgreen.svg)](https://github.com/)
 
-팀원 / 프로젝트 기획 / 댓글 기능/ 프론트엔드 백업/크롤링/ DB 모델링 /상세보기 수정 및 삭제
+팀원 / 프로젝트 기획 / 댓글 기능/ 프론트엔드 백업/크롤링/상세보기 수정 및 삭제
 
 ## 4. 프로젝트 기능
 
@@ -99,8 +99,9 @@
 ### 게시판 기능 (게시글, 댓글, 대댓글)
 
 - 게시글 CRUD 기능
-- 게시글, 유저 검색 기능
+- 게시글 검색 기능
 - 게시글 신고 기능 (super 계정이 처리)
+- 게시글 댓글 기능
 
 ### 관리자 기능 ( 사이트 관리 페이지)
 
