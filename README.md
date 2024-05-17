@@ -162,8 +162,6 @@
 
 ## 5. 와이어프레임
 
-[https://www.figma.com/file/hgtTToRaWbfP87GfNvHaMa/Off_the_Outfit?node-id=0%3A1&t=xw7FNe87Jr8IecaC-1](https://www.figma.com/file/hgtTToRaWbfP87GfNvHaMa/Off_the_Outfit?node-id=0%3A1&t=xw7FNe87Jr8IecaC-1)
-
 ![와이어프레임](https://github.com/SungChangNam/kurumaster/assets/112399821/a3b51f57-3f77-46e2-b5ac-ee3b6145f8a6)
 
 
