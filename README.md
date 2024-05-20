@@ -89,7 +89,7 @@
 ## 4. 프로젝트 기능
 
 
- ### 회원 기능 (게시글, 댓글, 대댓글)
+ ### 회원 기능 (회원가입,회원정보수정,email인증)
 
 - 회원가입 시, 아이디, 닉네임, 비밀번호 정규표현식 필터링 적용 ( 회원정보 수정 시에도 적용)
 - 회원정보 CRUD 기능
@@ -170,10 +170,39 @@
 ![RentCar (7)](https://github.com/SungChangNam/kurumaster/assets/112399821/2d85f0b1-42ad-4908-a495-34101715cfc6)
 
 
+## 7. DB다이어그램  &클래스 다이어그램
 
-## 6. 요구사항 분석 설계서
+![db다이어그램](https://github.com/SungChangNam/kurumaster/assets/112399821/70941796-918e-4522-94c6-64ecc9abeb74)
+
+### 데이터베이스 관계 설명
+
+### 사용자 (User)와 게시글 (Post)
+관계: 일대다(1:N)
+설명: 한 명의 사용자는 여러 개의 게시글을 작성할 수 있습니다.
+외래 키: Posts 클래스의 user_id 속성은 Users 클래스의 Key 속성을 참조합니다.
+
+### 사용자 (User)와 예약 (Reservation)
+관계: 일대다(1:N)
+설명: 한 명의 사용자는 여러 개의 예약을 할 수 있습니다.
+외래 키: Reservations 클래스의 user_id 속성은 Users 클래스의 Key 속성을 참조합니다.
+
+### 게시글 (Post)와 댓글 (Comment)
+관계: 일대다(1:N)
+설명: 한 개의 게시글은 여러 개의 댓글을 가질 수 있습니다.
+외래 키: Comments 클래스의 Key 속성은 Posts 클래스의 Key 속성을 참조합니다.
+
+### 예약 (Reservation)과 차량 (Vehicle)
+관계: 일대일(1:1)
+설명: 예약은 한 대의 차량만 예약할 수 있습니다.
+외래 키: Reservations 클래스의 vehicle_id 속성은 Vehicles 클래스의 vehicle_id 속성을 참조합니다.
+
+
+
+
+## 8. 요구사항 분석 설계서
 
 <a href="https://docs.google.com/presentation/d/1lTJSTo-P14JcGu3FWIZ9zQvL1bJq6Uij77BIFGUbml4/edit#slide=id.gc6f80d1ff_0_0" target="_blank">요구사항 분석 설계서</a>
+
 
 
 
