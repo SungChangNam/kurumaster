@@ -6,6 +6,9 @@
 ![Image of the alt text](https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D)
 
 
+##  요구사항 분석 설계서
+
+<a href="https://docs.google.com/presentation/d/1lTJSTo-P14JcGu3FWIZ9zQvL1bJq6Uij77BIFGUbml4/edit#slide=id.gc6f80d1ff_0_0" target="_blank">요구사항 분석 설계서</a>
 
 
 
@@ -170,38 +173,33 @@
 ![RentCar (7)](https://github.com/SungChangNam/kurumaster/assets/112399821/2d85f0b1-42ad-4908-a495-34101715cfc6)
 
 
-## 7. DB다이어그램  &클래스 다이어그램
+## 7.클래스 다이어그램
 
-![db다이어그램](https://github.com/SungChangNam/kurumaster/assets/112399821/70941796-918e-4522-94c6-64ecc9abeb74)
+| Class          | Attributes                                                                 | Methods         |
+|----------------|----------------------------------------------------------------------------|-----------------|
+| **User**       | - id: int<br> - username: String<br> - password: String<br> - email: String<br> - phone: String<br> - createdAt: Date<br> - isAdmin: boolean | + getters/setters |
+| **Verification** | - id: int<br> - userId: int<br> - code: String<br> - expiresAt: Date | + getters/setters |
+| **Post**       | - id: int<br> - userId: int<br> - title: String<br> - content: CLOB<br> - createdAt: Date | + getters/setters |
+| **Comment**    | - id: int<br> - postId: int<br> - userId: int<br> - content: CLOB<br> - createdAt: Date | + getters/setters |
+| **Vehicle**    | - id: int<br> - model: String<br> - availability: boolean<br> - pricePerDay: float<br> - imageUrl: String | + getters/setters |
+| **Reservation** | - id: int<br> - userId: int<br> - vehicleId: int<br> - startDate: Date<br> - endDate: Date<br> - totalPrice: float<br> - status: String | + getters/setters |
 
-### 데이터베이스 관계 설명
+### 클래스 간의 관계 설명
 
-### 사용자 (User)와 게시글 (Post)
-관계: 일대다(1:N)
-설명: 한 명의 사용자는 여러 개의 게시글을 작성할 수 있습니다.
-외래 키: Posts 클래스의 user_id 속성은 Users 클래스의 Key 속성을 참조합니다.
+| Relationship       | Classes         | Type     | Description                                                                                              | Foreign Key                                         |
+|--------------------|-----------------|----------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| **User - Post**    | User, Post      | 1:N      | 한 명의 사용자는 여러 개의 게시글을 작성할 수 있습니다.                                                     | `Post` 클래스의 `userId` 속성은 `User` 클래스의 `id` 속성을 참조합니다. |
+| **User - Reservation** | User, Reservation | 1:N      | 한 명의 사용자는 여러 개의 예약을 할 수 있습니다.                                                          | `Reservation` 클래스의 `userId` 속성은 `User` 클래스의 `id` 속성을 참조합니다. |
+| **Post - Comment** | Post, Comment   | 1:N      | 한 개의 게시글은 여러 개의 댓글을 가질 수 있습니다.                                                       | `Comment` 클래스의 `postId` 속성은 `Post` 클래스의 `id` 속성을 참조합니다. |
+| **Reservation - Vehicle** | Reservation, Vehicle | 1:1      | 예약은 한 대의 차량만 예약할 수 있습니다.                                                                  | `Reservation` 클래스의 `vehicleId` 속성은 `Vehicle` 클래스의 `id` 속성을 참조합니다. |
 
-### 사용자 (User)와 예약 (Reservation)
-관계: 일대다(1:N)
-설명: 한 명의 사용자는 여러 개의 예약을 할 수 있습니다.
-외래 키: Reservations 클래스의 user_id 속성은 Users 클래스의 Key 속성을 참조합니다.
+### 관계도
 
-### 게시글 (Post)와 댓글 (Comment)
-관계: 일대다(1:N)
-설명: 한 개의 게시글은 여러 개의 댓글을 가질 수 있습니다.
-외래 키: Comments 클래스의 Key 속성은 Posts 클래스의 Key 속성을 참조합니다.
-
-### 예약 (Reservation)과 차량 (Vehicle)
-관계: 일대일(1:1)
-설명: 예약은 한 대의 차량만 예약할 수 있습니다.
-외래 키: Reservations 클래스의 vehicle_id 속성은 Vehicles 클래스의 vehicle_id 속성을 참조합니다.
-
-
-
-
-## 8. 요구사항 분석 설계서
-
-<a href="https://docs.google.com/presentation/d/1lTJSTo-P14JcGu3FWIZ9zQvL1bJq6Uij77BIFGUbml4/edit#slide=id.gc6f80d1ff_0_0" target="_blank">요구사항 분석 설계서</a>
+```plaintext
+User (1) --- (N) Post
+User (1) --- (N) Reservation
+Post (1) --- (N) Comment
+Reservation (1) --- (1) Vehicle
 
 
 
