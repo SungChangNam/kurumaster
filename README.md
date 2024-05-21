@@ -174,6 +174,24 @@
 
 
 ## 7.클래스 다이어그램
+![메인페이지](https://github.com/SungChangNam/kurumaster/assets/112399821/89f319c6-2515-4d34-98c6-2424f94bdb41)
+
+![로그인 클래스](https://github.com/SungChangNam/kurumaster/assets/112399821/d60511b4-cb2f-4c72-a7a3-43d19144f79c)
+
+![회원가입 클래스](https://github.com/SungChangNam/kurumaster/assets/112399821/3f28afb4-22e5-4c08-b193-69cf8d08e637)
+
+![리뷰 클래스](https://github.com/SungChangNam/kurumaster/assets/112399821/3f84109f-616e-4920-8cee-87a845e330e4)
+
+![예약 페이지](https://github.com/SungChangNam/kurumaster/assets/112399821/9f26c4bb-03dc-4d90-90eb-cdc9a35391ce)
+
+![마이페이지](https://github.com/SungChangNam/kurumaster/assets/112399821/9556e966-4ecd-48d9-86b6-b1aee5238ce1)
+
+
+
+
+
+
+
 
 | Class          | Attributes                                                                 | Methods         |
 |----------------|----------------------------------------------------------------------------|-----------------|
